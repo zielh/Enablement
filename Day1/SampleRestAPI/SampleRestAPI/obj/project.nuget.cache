@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "9L6hobh6GdfpqFqi4Np3u3M5iVQEazEIiN51nC9JkSm+qCb70F0g82v3kAUAqIL52VWCYdbQL9ZC9xoTVVFH0w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ilham\\Documents\\ECOMINDO\\Enablement\\Day 1\\SampleRestAPI\\SampleRestAPI\\SampleRestAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ilham\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\ilham\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\ilham\\.nuget\\packages\\swashbuckle.aspnetcore\\6.3.0\\swashbuckle.aspnetcore.6.3.0.nupkg.sha512",
+    "C:\\Users\\ilham\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.3.0\\swashbuckle.aspnetcore.swagger.6.3.0.nupkg.sha512",
+    "C:\\Users\\ilham\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.3.0\\swashbuckle.aspnetcore.swaggergen.6.3.0.nupkg.sha512",
+    "C:\\Users\\ilham\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.3.0\\swashbuckle.aspnetcore.swaggerui.6.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
