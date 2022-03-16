@@ -1,0 +1,14 @@
+﻿namespace SampleRestAPI2.DTO
+{
+    public class OrdersDTO
+    {
+        public Guid Id { get; set; }
+        public Guid UserId { get; set; }
+        public string Status { get; set; }
+    }
+    public class OrdersWithUsersDTO : OrdersDTO
+    {
+        public string FullName { get; set; }
+        public string Email { get; set; }
+    }
+}

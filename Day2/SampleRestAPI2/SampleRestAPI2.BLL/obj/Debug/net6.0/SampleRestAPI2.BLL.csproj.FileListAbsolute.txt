@@ -1,0 +1,15 @@
+C:\Users\ilham\Documents\ECOMINDO\Enablement\Repository\Day2\SampleRestAPI2\SampleRestAPI2.BLL\obj\Debug\net6.0\SampleRestAPI2.BLL.csproj.AssemblyReference.cache
+C:\Users\ilham\Documents\ECOMINDO\Enablement\Repository\Day2\SampleRestAPI2\SampleRestAPI2.BLL\obj\Debug\net6.0\SampleRestAPI2.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilham\Documents\ECOMINDO\Enablement\Repository\Day2\SampleRestAPI2\SampleRestAPI2.BLL\obj\Debug\net6.0\SampleRestAPI2.BLL.AssemblyInfoInputs.cache
+C:\Users\ilham\Documents\ECOMINDO\Enablement\Repository\Day2\SampleRestAPI2\SampleRestAPI2.BLL\obj\Debug\net6.0\SampleRestAPI2.BLL.AssemblyInfo.cs
+C:\Users\ilham\Documents\ECOMINDO\Enablement\Repository\Day2\SampleRestAPI2\SampleRestAPI2.BLL\obj\Debug\net6.0\SampleRestAPI2.BLL.csproj.CoreCompileInputs.cache
+C:\Users\ilham\Documents\ECOMINDO\Enablement\Repository\Day2\SampleRestAPI2\SampleRestAPI2.BLL\bin\Debug\net6.0\SampleRestAPI2.BLL.deps.json
+C:\Users\ilham\Documents\ECOMINDO\Enablement\Repository\Day2\SampleRestAPI2\SampleRestAPI2.BLL\bin\Debug\net6.0\SampleRestAPI2.BLL.dll
+C:\Users\ilham\Documents\ECOMINDO\Enablement\Repository\Day2\SampleRestAPI2\SampleRestAPI2.BLL\bin\Debug\net6.0\SampleRestAPI2.BLL.pdb
+C:\Users\ilham\Documents\ECOMINDO\Enablement\Repository\Day2\SampleRestAPI2\SampleRestAPI2.BLL\bin\Debug\net6.0\SampleRestAPI2.DAL.dll
+C:\Users\ilham\Documents\ECOMINDO\Enablement\Repository\Day2\SampleRestAPI2\SampleRestAPI2.BLL\bin\Debug\net6.0\SampleRestAPI2.DAL.pdb
+C:\Users\ilham\Documents\ECOMINDO\Enablement\Repository\Day2\SampleRestAPI2\SampleRestAPI2.BLL\obj\Debug\net6.0\SampleRestAPI2.BLL.csproj.CopyComplete
+C:\Users\ilham\Documents\ECOMINDO\Enablement\Repository\Day2\SampleRestAPI2\SampleRestAPI2.BLL\obj\Debug\net6.0\SampleRestAPI2.BLL.dll
+C:\Users\ilham\Documents\ECOMINDO\Enablement\Repository\Day2\SampleRestAPI2\SampleRestAPI2.BLL\obj\Debug\net6.0\refint\SampleRestAPI2.BLL.dll
+C:\Users\ilham\Documents\ECOMINDO\Enablement\Repository\Day2\SampleRestAPI2\SampleRestAPI2.BLL\obj\Debug\net6.0\SampleRestAPI2.BLL.pdb
+C:\Users\ilham\Documents\ECOMINDO\Enablement\Repository\Day2\SampleRestAPI2\SampleRestAPI2.BLL\obj\Debug\net6.0\ref\SampleRestAPI2.BLL.dll
