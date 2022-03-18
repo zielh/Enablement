@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Ffs30GHzX7tu8HR3W02B/qCMFdozHa0EZxmhaH2U1us=",
+  "Source": "SampleRestAPI2Auth",
+  "BasePath": "_content/SampleRestAPI2Auth",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

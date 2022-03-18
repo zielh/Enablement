@@ -1,0 +1,12 @@
+C:\Users\ilham\Documents\ECOMINDO\Enablement\Repository\Day3\SampleRestAPI2\SampleRestAPI2Auth.DAL\obj\Debug\net6.0\SampleRestAPI2Auth.DAL.csproj.AssemblyReference.cache
+C:\Users\ilham\Documents\ECOMINDO\Enablement\Repository\Day3\SampleRestAPI2\SampleRestAPI2Auth.DAL\obj\Debug\net6.0\SampleRestAPI2Auth.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilham\Documents\ECOMINDO\Enablement\Repository\Day3\SampleRestAPI2\SampleRestAPI2Auth.DAL\obj\Debug\net6.0\SampleRestAPI2Auth.DAL.AssemblyInfoInputs.cache
+C:\Users\ilham\Documents\ECOMINDO\Enablement\Repository\Day3\SampleRestAPI2\SampleRestAPI2Auth.DAL\obj\Debug\net6.0\SampleRestAPI2Auth.DAL.AssemblyInfo.cs
+C:\Users\ilham\Documents\ECOMINDO\Enablement\Repository\Day3\SampleRestAPI2\SampleRestAPI2Auth.DAL\obj\Debug\net6.0\SampleRestAPI2Auth.DAL.csproj.CoreCompileInputs.cache
+C:\Users\ilham\Documents\ECOMINDO\Enablement\Repository\Day3\SampleRestAPI2\SampleRestAPI2Auth.DAL\bin\Debug\net6.0\SampleRestAPI2Auth.DAL.deps.json
+C:\Users\ilham\Documents\ECOMINDO\Enablement\Repository\Day3\SampleRestAPI2\SampleRestAPI2Auth.DAL\bin\Debug\net6.0\SampleRestAPI2Auth.DAL.dll
+C:\Users\ilham\Documents\ECOMINDO\Enablement\Repository\Day3\SampleRestAPI2\SampleRestAPI2Auth.DAL\bin\Debug\net6.0\SampleRestAPI2Auth.DAL.pdb
+C:\Users\ilham\Documents\ECOMINDO\Enablement\Repository\Day3\SampleRestAPI2\SampleRestAPI2Auth.DAL\obj\Debug\net6.0\SampleRestAPI2Auth.DAL.dll
+C:\Users\ilham\Documents\ECOMINDO\Enablement\Repository\Day3\SampleRestAPI2\SampleRestAPI2Auth.DAL\obj\Debug\net6.0\refint\SampleRestAPI2Auth.DAL.dll
+C:\Users\ilham\Documents\ECOMINDO\Enablement\Repository\Day3\SampleRestAPI2\SampleRestAPI2Auth.DAL\obj\Debug\net6.0\SampleRestAPI2Auth.DAL.pdb
+C:\Users\ilham\Documents\ECOMINDO\Enablement\Repository\Day3\SampleRestAPI2\SampleRestAPI2Auth.DAL\obj\Debug\net6.0\ref\SampleRestAPI2Auth.DAL.dll
