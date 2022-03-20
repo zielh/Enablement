@@ -1,0 +1,12 @@
+C:\Users\ilham\Documents\ECOMINDO\Enablement\Repository\Day3\SampleRestAPI2\SampleRestAPI2.Scheduler\bin\Debug\net6.0\SampleRestAPI2.Scheduler.deps.json
+C:\Users\ilham\Documents\ECOMINDO\Enablement\Repository\Day3\SampleRestAPI2\SampleRestAPI2.Scheduler\bin\Debug\net6.0\SampleRestAPI2.Scheduler.dll
+C:\Users\ilham\Documents\ECOMINDO\Enablement\Repository\Day3\SampleRestAPI2\SampleRestAPI2.Scheduler\bin\Debug\net6.0\SampleRestAPI2.Scheduler.pdb
+C:\Users\ilham\Documents\ECOMINDO\Enablement\Repository\Day3\SampleRestAPI2\SampleRestAPI2.Scheduler\obj\Debug\net6.0\SampleRestAPI2.Scheduler.csproj.AssemblyReference.cache
+C:\Users\ilham\Documents\ECOMINDO\Enablement\Repository\Day3\SampleRestAPI2\SampleRestAPI2.Scheduler\obj\Debug\net6.0\SampleRestAPI2.Scheduler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilham\Documents\ECOMINDO\Enablement\Repository\Day3\SampleRestAPI2\SampleRestAPI2.Scheduler\obj\Debug\net6.0\SampleRestAPI2.Scheduler.AssemblyInfoInputs.cache
+C:\Users\ilham\Documents\ECOMINDO\Enablement\Repository\Day3\SampleRestAPI2\SampleRestAPI2.Scheduler\obj\Debug\net6.0\SampleRestAPI2.Scheduler.AssemblyInfo.cs
+C:\Users\ilham\Documents\ECOMINDO\Enablement\Repository\Day3\SampleRestAPI2\SampleRestAPI2.Scheduler\obj\Debug\net6.0\SampleRestAPI2.Scheduler.csproj.CoreCompileInputs.cache
+C:\Users\ilham\Documents\ECOMINDO\Enablement\Repository\Day3\SampleRestAPI2\SampleRestAPI2.Scheduler\obj\Debug\net6.0\SampleRestAPI2.Scheduler.dll
+C:\Users\ilham\Documents\ECOMINDO\Enablement\Repository\Day3\SampleRestAPI2\SampleRestAPI2.Scheduler\obj\Debug\net6.0\refint\SampleRestAPI2.Scheduler.dll
+C:\Users\ilham\Documents\ECOMINDO\Enablement\Repository\Day3\SampleRestAPI2\SampleRestAPI2.Scheduler\obj\Debug\net6.0\SampleRestAPI2.Scheduler.pdb
+C:\Users\ilham\Documents\ECOMINDO\Enablement\Repository\Day3\SampleRestAPI2\SampleRestAPI2.Scheduler\obj\Debug\net6.0\ref\SampleRestAPI2.Scheduler.dll

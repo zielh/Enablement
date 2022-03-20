@@ -1,0 +1,34 @@
+[
+  {
+    "merchantName": "Merchants 1",
+    "id": "0cb4a673-02ab-4634-0399-08da0a7fb54e",
+    "name": "Product 1",
+    "price": 110,
+    "merchantId": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+    "status": true
+  },
+  {
+    "merchantName": "Merchants 1",
+    "id": "edf55bb7-0469-496e-039a-08da0a7fb54e",
+    "name": "Product 2",
+    "price": 111,
+    "merchantId": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+    "status": true
+  },
+  {
+    "merchantName": "Merchant 2",
+    "id": "df1ff2cf-d911-4a6b-039b-08da0a7fb54e",
+    "name": "Product 3",
+    "price": 115,
+    "merchantId": "e950fd1c-0dde-4709-719e-08da0a7e8233",
+    "status": true
+  },
+  {
+    "merchantName": "Merchant 3",
+    "id": "1f15ad8e-a0e9-4a61-039c-08da0a7fb54e",
+    "name": "Product 4",
+    "price": 115,
+    "merchantId": "e3e4e724-53a6-4c5d-719f-08da0a7e8233",
+    "status": true
+  }
+]

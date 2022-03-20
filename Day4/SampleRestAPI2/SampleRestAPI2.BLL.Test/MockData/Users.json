@@ -1,0 +1,22 @@
+[
+  {
+    "countryName": "Indonesia",
+    "id": "7175f4ed-aa56-4422-9d42-0f7c6ce3e350",
+    "firstName": "First 2",
+    "lastName": "Last 2",
+    "email": "user2@email.com",
+    "gender": "Perempuan",
+    "dateOfBirth": "2022-03-17T00:00:00",
+    "countryId": "3fa85f64-5717-4562-b3fc-2c963f66afa6"
+  },
+  {
+    "countryName": "Indonesia",
+    "id": "d82900ad-b0b9-45d5-9f6d-d3cc46da424b",
+    "firstName": "First 1",
+    "lastName": "Last 1",
+    "email": "user1@email.com",
+    "gender": "Laki-Laki",
+    "dateOfBirth": "2022-03-16T00:00:00",
+    "countryId": "3fa85f64-5717-4562-b3fc-2c963f66afa6"
+  }
+]

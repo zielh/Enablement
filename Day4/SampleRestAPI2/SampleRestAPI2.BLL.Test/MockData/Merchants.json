@@ -1,0 +1,32 @@
+[
+  {
+    "firstName": "First 2 ",
+    "lastName": "Last 2",
+    "email": "user2@email.com",
+    "countryName": "Singapura",
+    "id": "e950fd1c-0dde-4709-719e-08da0a7e8233",
+    "name": "Merchant 2",
+    "userId": "7175f4ed-aa56-4422-9d42-0f7c6ce3e350",
+    "countryId": "b22c33c7-3e6b-4f7b-84f8-cf534f7588a8"
+  },
+  {
+    "firstName": "First 1",
+    "lastName": "Last 1",
+    "email": "user1@email.com",
+    "countryName": "Jepang",
+    "id": "e3e4e724-53a6-4c5d-719f-08da0a7e8233",
+    "name": "Merchant 3",
+    "userId": "d82900ad-b0b9-45d5-9f6d-d3cc46da424b",
+    "countryId": "ac7d75ba-3776-4477-a802-e9e14e03ef21"
+  },
+  {
+    "firstName": "First 1",
+    "lastName": "Last 1",
+    "email": "user1@email.com",
+    "countryName": "Indonesia",
+    "id": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
+    "name": "Merchants 1",
+    "userId": "d82900ad-b0b9-45d5-9f6d-d3cc46da424b",
+    "countryId": "3fa85f64-5717-4562-b3fc-2c963f66afa6"
+  }
+]

@@ -1,0 +1,17 @@
+C:\Users\ilham\Documents\ECOMINDO\Enablement\Repository\Day3\SampleRestAPI2\SampleRestAPI2Auth.BLL\obj\Debug\net6.0\SampleRestAPI2Auth.BLL.csproj.AssemblyReference.cache
+C:\Users\ilham\Documents\ECOMINDO\Enablement\Repository\Day3\SampleRestAPI2\SampleRestAPI2Auth.BLL\obj\Debug\net6.0\SampleRestAPI2Auth.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilham\Documents\ECOMINDO\Enablement\Repository\Day3\SampleRestAPI2\SampleRestAPI2Auth.BLL\obj\Debug\net6.0\SampleRestAPI2Auth.BLL.AssemblyInfoInputs.cache
+C:\Users\ilham\Documents\ECOMINDO\Enablement\Repository\Day3\SampleRestAPI2\SampleRestAPI2Auth.BLL\obj\Debug\net6.0\SampleRestAPI2Auth.BLL.AssemblyInfo.cs
+C:\Users\ilham\Documents\ECOMINDO\Enablement\Repository\Day3\SampleRestAPI2\SampleRestAPI2Auth.BLL\obj\Debug\net6.0\SampleRestAPI2Auth.BLL.csproj.CoreCompileInputs.cache
+C:\Users\ilham\Documents\ECOMINDO\Enablement\Repository\Day3\SampleRestAPI2\SampleRestAPI2Auth.BLL\bin\Debug\net6.0\SampleRestAPI2Auth.BLL.deps.json
+C:\Users\ilham\Documents\ECOMINDO\Enablement\Repository\Day3\SampleRestAPI2\SampleRestAPI2Auth.BLL\bin\Debug\net6.0\SampleRestAPI2Auth.BLL.dll
+C:\Users\ilham\Documents\ECOMINDO\Enablement\Repository\Day3\SampleRestAPI2\SampleRestAPI2Auth.BLL\bin\Debug\net6.0\SampleRestAPI2Auth.BLL.pdb
+C:\Users\ilham\Documents\ECOMINDO\Enablement\Repository\Day3\SampleRestAPI2\SampleRestAPI2Auth.BLL\bin\Debug\net6.0\SampleRestAPI2Auth.DAL.dll
+C:\Users\ilham\Documents\ECOMINDO\Enablement\Repository\Day3\SampleRestAPI2\SampleRestAPI2Auth.BLL\bin\Debug\net6.0\SampleRestAPI2Auth.External.dll
+C:\Users\ilham\Documents\ECOMINDO\Enablement\Repository\Day3\SampleRestAPI2\SampleRestAPI2Auth.BLL\bin\Debug\net6.0\SampleRestAPI2Auth.External.pdb
+C:\Users\ilham\Documents\ECOMINDO\Enablement\Repository\Day3\SampleRestAPI2\SampleRestAPI2Auth.BLL\bin\Debug\net6.0\SampleRestAPI2Auth.DAL.pdb
+C:\Users\ilham\Documents\ECOMINDO\Enablement\Repository\Day3\SampleRestAPI2\SampleRestAPI2Auth.BLL\obj\Debug\net6.0\SampleRestAPI2Auth.BLL.csproj.CopyComplete
+C:\Users\ilham\Documents\ECOMINDO\Enablement\Repository\Day3\SampleRestAPI2\SampleRestAPI2Auth.BLL\obj\Debug\net6.0\SampleRestAPI2Auth.BLL.dll
+C:\Users\ilham\Documents\ECOMINDO\Enablement\Repository\Day3\SampleRestAPI2\SampleRestAPI2Auth.BLL\obj\Debug\net6.0\refint\SampleRestAPI2Auth.BLL.dll
+C:\Users\ilham\Documents\ECOMINDO\Enablement\Repository\Day3\SampleRestAPI2\SampleRestAPI2Auth.BLL\obj\Debug\net6.0\SampleRestAPI2Auth.BLL.pdb
+C:\Users\ilham\Documents\ECOMINDO\Enablement\Repository\Day3\SampleRestAPI2\SampleRestAPI2Auth.BLL\obj\Debug\net6.0\ref\SampleRestAPI2Auth.BLL.dll
