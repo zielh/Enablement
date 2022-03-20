@@ -1,18 +1,21 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using SampleRestAPI2.BLL.DTO;
+using SampleRestAPI2.BLL.Test.Common;
 using SampleRestAPI2.DAL.Models;
 using SampleRestAPI2.DAL.Repository;
+using System.Collections.Generic;
 using System.Linq.Expressions;
 
 namespace SampleRestAPI2.BLL.Test
 {
     public class OrderItemServiceTest
     {
-        private readonly IUnitOfWork _unitOfWork;
 
-        public OrderItemServiceTest(IUnitOfWork unitOfWork)
+        private IEnumerable<OrdersItems> ordersItems;
+
+        public OrderItemServiceTest()
         {
-            _unitOfWork = unitOfWork;
+            ordersItems = CommonHelper.LoadDataFromFile<IEnumerable<OrdersItems>>(@"MockData\OrderItems.json");
         }
     }
 }
